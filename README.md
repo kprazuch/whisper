@@ -1,5 +1,5 @@
 To install Whisper:
-1. Create virtual environment
-2. Run 'pip install openai-whisper'
-3. Install scoop: iwr -useb get.scoop.sh | iex
-4. Install ffmpeg: scoop install ffmpeg
+1. Create requirements.txt file with 'openai-whisper'
+2. Create virtual environment
+3. Install scoop in terminal: iwr -useb get.scoop.sh | iex
+4. Install ffmpeg in terminal: scoop install ffmpeg
