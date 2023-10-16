@@ -1,1 +1,3 @@
 openai-whisper
+pyannote.audio
+setuptools==59.5.0
